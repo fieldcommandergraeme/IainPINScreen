@@ -1,0 +1,15 @@
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\bin\Debug\MPUI1.dll
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\bin\Debug\MPUI1.pdb
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\bin\Debug\Xamarin.Forms.Core.dll
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\bin\Debug\Xamarin.Forms.Core.xml
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\obj\Debug\MPUI1.csprojResolveAssemblyReference.cache
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\obj\Debug\MPUI1.MainPage.xaml.g.cs
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\obj\Debug\MPUI1.App.xaml.g.cs
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\obj\Debug\MPUI1.dll
+D:\Projects\Telehealth\AndroidProjects\MPUI1\MPUI1\MPUI1\obj\Debug\MPUI1.pdb
